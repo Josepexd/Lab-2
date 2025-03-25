@@ -18,11 +18,49 @@ namespace Ejercicio_5
             int exponente = int.Parse(Console.ReadLine());
             double resultado = 1;
             int exp = exponente;
-            if (exp < 0) exp = -exp;
-            for (int i = 0; i < exp; i++)
-                resultado *= baseNum;
-            if (exponente < 0) resultado = 1 / resultado;
-            Console.WriteLine($"Resultado: {resultado}");
+            if (exp < 0)
+            {
+                exp = -exp;
+                baseNum = 1.0 / baseNum;
+            }
+
+            if (exp == 1)
+            {
+                resultado = baseNum;
+            }
+            else if (exp == 2)
+            {
+                resultado = baseNum * baseNum;
+            }
+            else if (exp == 3)
+            {
+                resultado = baseNum * baseNum * baseNum;
+            }
+            else if (exp == 4)
+            {
+                resultado = baseNum * baseNum * baseNum * baseNum;
+            }
+            else if (exp == -1)
+            {
+                resultado = resultado = -(baseNum);
+            }
+            else if (exp == -2)
+            {
+                resultado = baseNum - (baseNum);
+            }
+            else if (exp == -3)
+            {
+                resultado = baseNum - (baseNum * baseNum);
+            }
+            else if (exp == -4)
+            {
+                resultado = baseNum - (baseNum * baseNum * baseNum);
+              }
+                {
+            }
+
+
+                Console.WriteLine($"Resultado: {resultado}");
             Console.WriteLine("Presione cualquier tecla para continuar");
             Console.ReadKey();
         }
