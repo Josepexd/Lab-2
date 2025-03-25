@@ -1,0 +1,14 @@
+C:\Users\Joseph\Desktop\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\Joseph\Desktop\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+C:\Users\Joseph\Desktop\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+C:\Users\Joseph\Desktop\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+C:\Users\Joseph\Desktop\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+C:\Users\Joseph\Desktop\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
+C:\Users\Estudiante\Desktop\Laboratorio 2\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Laboratorio 2\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Laboratorio 2\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+C:\Users\Estudiante\Desktop\Laboratorio 2\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
+C:\Users\Estudiante\Desktop\Laboratorio 2\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+C:\Users\Estudiante\Desktop\Laboratorio 2\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+C:\Users\Estudiante\Desktop\Laboratorio 2\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
